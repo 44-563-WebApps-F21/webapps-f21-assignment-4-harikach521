@@ -41,5 +41,12 @@ th{
 tr:nth-child(even){
     background-color: lavenderblush;
 }
+h6.LORD_GORING:hover{
+    text-shadow: 2px 2px 5px rgb(179, 72, 90);
+    border-style: outset;
+    /*border-style: dotted;
+  border-width: 2px;*/
+}
+
 
 
