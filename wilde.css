@@ -25,3 +25,21 @@ h6.LORD_GORING{
 h6.SIR_ROBERT_CHILTERN{
     color:yellowgreen;
 }
+table,th,td{
+   border-collapse: collapse;
+   border-style: solid;
+   border-color: black;
+   text-align: left;   
+   padding: 20px;
+   margin: 10px;
+}
+th{
+    font-size: 20px;
+    background-color: lavender;
+}
+
+tr:nth-child(even){
+    background-color: lavenderblush;
+}
+
+
