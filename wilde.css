@@ -1,0 +1,27 @@
+p{
+    font-size:10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+    
+}  
+p.d{
+    font-size:10px;
+    font-family: 'Times New Roman';
+    color:black;
+    background-color: burlywood;
+}
+p.d:hover{
+    background-color: cadetblue ;
+    color: red;
+}
+h6{
+    font-size:15px;
+    font-family: 'Times New Roman';
+    color:black;
+}
+h6.LORD_GORING{
+    color: rgb(72, 55, 231);
+}
+h6.SIR_ROBERT_CHILTERN{
+    color:yellowgreen;
+}
